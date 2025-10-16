@@ -1,0 +1,4 @@
+SDXXZYMK2.py==>Santander Customer Transaction Prediction
+TFZY.py==>ShoppingAppReviews Dataset
+DMTYYZYMK2.py==>NEU-surface-defect-database
+ZNTGJZYMK2.py==>Cleaned & Preprocessed
